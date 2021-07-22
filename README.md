@@ -15,9 +15,10 @@
 ![prop](Imagens/prop.png)
 
 5. Marque a opção **Desbloquear** e depois clique em **OK**
-> _Caso não tenha feito isso, toda vez que o programa executar aparecerá uma janela de confirmação do Windows, isso é bem chato, então para não incomodar só desbloqueie_
 
 ![desbloquear](Imagens/desbloquear.PNG)
+
+> _Caso não tenha feito isso, toda vez que o programa executar aparecerá uma janela de confirmação do Windows, isso é bem chato, então para não incomodar só desbloqueie_
 
 6. Entre **[aqui](https://github.com/GabrielCoutz/Usando-DPC)**, clique em **Code** e depois em **Download ZIP**
 
@@ -67,3 +68,10 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 5. Para finalizar, pode colocar a pasta com todos os arquivos em qualquer lugar _(não apague)_, depois disso reinicie o pc e veja a mágica acontecer kkk
 
 <hr>
+
+<h1>Entre em Contato Comigo ^-^</h1>
+Caso precise falar comigo ou tenha acontecido algum erro, só fazer isso:
+
+Clique em **Issues** e depois em **New Issue**. Descreva seu problema, se possível com imagens, e espere meu contato =)
+
+![issue](Imagens/issue.PNG)
