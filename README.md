@@ -40,3 +40,31 @@
 11. A janela final aparecerá, só ler e fechar
 
 ![janela_final](Imagens/janela_final.PNG)
+
+<hr>
+
+<h1>Pós execução</h1>
+
+Agora, para que esse programa rode e resolva o problema sempre que o pc é ligado, precisamos adicioná-lo à pasta Inicializar do Windows.
+
+1. Pressione **Windows** + **R** e digite **%appdata%**, depois clique em OK
+
+![appdata](Imagens/appdata.PNG)
+
+2. Siga esse caminho: **_AppData --> Roaming --> Microsoft  --> Windows  --> Start Menu  --> Programs  --> Startup_**
+   1. Com vc pode estar em português, então as 3 últimas pastas serão **_Menu Iniciar --> Programas --> Inicializar_**
+
+![caminho](Imagens/caminho.PNG)
+
+3. Volte à pasta em que vc extraiu os arquivos. Clique com o botão direito em **Resolver** e clique em **Criar Atalho**
+
+
+![atalho](Imagens/atalho.png)
+
+4. Agora basta colocar esse atalho dentro da pasta _Inicializar_ para que rode quando o windows iniciar
+
+![copiar](Imagens/copiar.png)
+
+5. Para finalizar, pode colocar a pasta com todos os arquivos em qualquer lugar _(não apague)_, depois disso reinicie o pc e veja a mágica acontecer kkk
+
+<hr>
