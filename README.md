@@ -56,8 +56,7 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 ![caminho](Imagens/caminho.PNG)
 
-3. Volte à pasta em que vc extraiu os arquivos. Clique com o botão direito em **Resolver** e clique em **Criar Atalho**
-
+3. Volte à pasta em que vc extraiu os arquivos. Clique com o botão direito em **Resolver_DPC** e clique em **Criar Atalho**
 
 ![atalho](Imagens/atalho.png)
 
