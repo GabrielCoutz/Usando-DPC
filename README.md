@@ -27,7 +27,7 @@
 
 ![extrair](Imagens/)
 
-8. Abra a pasta que foi extraída **()** e execute **Resolver_DPC**, não é necessário executar como administrador mas não tem problema se fizer isso
+8. Abra a pasta que foi extraída **(Usando-DPC-main)** e execute **Resolver_DPC**, não é necessário executar como administrador mas não tem problema se fizer isso
 
 ![executar](Imagens/)
 
