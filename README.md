@@ -19,4 +19,24 @@
 
 ![desbloquear](Imagens/desbloquear.PNG)
 
-6.
+6. Entre **[aqui](https://github.com/GabrielCoutz/Usando-DPC)**, clique em **Code** e depois em **Download ZIP**
+
+![download](Imagens/)
+
+7. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
+
+![extrair](Imagens/)
+
+8. Abra a pasta que foi extraída **()** e execute **Resolver_DPC**, não é necessário executar como administrador mas não tem problema se fizer isso
+
+![executar](Imagens/)
+
+9. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
+
+![janela](Imagens/janela.PNG)
+
+10. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho XD )_ e aguarde terminar ;)
+
+11. A janela final aparecerá, só ler e fechar
+
+![janela_final](Imagens/janela_final.PNG)
