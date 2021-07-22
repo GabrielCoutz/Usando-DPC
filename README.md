@@ -21,15 +21,15 @@
 
 6. Entre **[aqui](https://github.com/GabrielCoutz/Usando-DPC)**, clique em **Code** e depois em **Download ZIP**
 
-![download](Imagens/)
+![download](Imagens/download_dpc.PNG)
 
 7. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
 
-![extrair](Imagens/)
+![extrair](Imagens/extrair.png)
 
 8. Abra a pasta que foi extraída **(Usando-DPC-main)** e execute **Resolver_DPC**, não é necessário executar como administrador mas não tem problema se fizer isso
 
-![executar](Imagens/)
+![executar](Imagens/executar.PNG)
 
 9. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
 
