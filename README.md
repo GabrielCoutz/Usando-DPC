@@ -28,17 +28,25 @@
 
 ![extrair](Imagens/extrair.png)
 
-8. Abra a pasta que foi extraída **(Usando-DPC-main)** e execute **Resolver_DPC**, não é necessário executar como administrador mas não tem problema se fizer isso
+8. Abra a pasta que foi extraída **(Usando-DPC-main)** e clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
+
+![prop_2](Imagens/prop_2.png)
+
+9. Vá em **Compatibilidade** e marque a opção **Executar esse programa como administrador**, clique em **OK**
+
+![exec_adm](Imagens/exec_adm.PNG)
+
+10. Após isso, execute **Resolver_DPC**
 
 ![executar](Imagens/executar.PNG)
 
-9. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
+11. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
 
 ![janela](Imagens/janela.PNG)
 
-10. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho XD )_ e aguarde terminar ;)
+12. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho XD )_ e aguarde terminar ;)
 
-11. A janela final aparecerá, só ler e fechar
+13. A janela final aparecerá, só ler e fechar
 
 ![janela_final](Imagens/janela_final.PNG)
 
