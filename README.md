@@ -1,3 +1,6 @@
+<h1>Como Utilizar?</h1>
+
+
 1. Baixe o **DPC Latency** **[aqui](https://www.softpedia.com/get/System/System-Info/DPC-Latency-Checker.shtml)** _(não é necessário executar, apenas baixe)_
 
 
