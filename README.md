@@ -1,55 +1,43 @@
 <h1>Como Utilizar?</h1>
 
 
-1. Baixe o **DPC Latency** **[aqui](https://www.softpedia.com/get/System/System-Info/DPC-Latency-Checker.shtml)** _(não é necessário executar, apenas baixe)_
+1. Entre **[aqui](https://github.com/GabrielCoutz/Usando-DPC)**, clique em **Code** e depois em **Download ZIP**
 
+![download](Imagens/download_dpc.PNG)
 
+2. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
 
-2. Clique em **FREE DOWNLOAD**
+![extrair](Imagens/extrair.png)
 
-![download](Imagens/download.PNG)
-
-3. Depois clique em **Softpedia Secure Download (US)** e aguarde o download iniciar
-
-![download_2](Imagens/download_2.PNG)
-
-4. Após o download terminar, vá até onde está a sua pasta de download, clique com o **Botão Direito** em **dpclat** e depois vá em **Propriedades**
+3. Abra a pasta que foi extraída **(Usando-DPC-main)**, entre na pasta **lib** e clique com o **Botão Direito** em **dpclat**, depois abra **Propriedades**
 
 ![prop](Imagens/prop.png)
 
-5. Marque a opção **Desbloquear** e depois clique em **OK**
+4. Marque a opção **Desbloquear** e depois clique em **OK**
 
 ![desbloquear](Imagens/desbloquear.PNG)
 
 > _Caso não tenha feito isso, toda vez que o programa executar aparecerá uma janela de confirmação do Windows, isso é bem chato, então para não incomodar só desbloqueie_
 
-6. Entre **[aqui](https://github.com/GabrielCoutz/Usando-DPC)**, clique em **Code** e depois em **Download ZIP**
-
-![download](Imagens/download_dpc.PNG)
-
-7. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
-
-![extrair](Imagens/extrair.png)
-
-8. Abra a pasta que foi extraída **(Usando-DPC-main)** e clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
+5. Volte à pasta **(Usando-DPC-main)** e clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
 
 ![prop_2](Imagens/prop_2.png)
 
-9. Vá em **Compatibilidade** e marque a opção **Executar esse programa como administrador**, clique em **OK**
+6. Vá em **Compatibilidade** e marque a opção **Executar esse programa como administrador**, clique em **OK**
 
 ![exec_adm](Imagens/exec_adm.PNG)
 
-10. Após isso, execute **Resolver_DPC**
+7. Após isso, execute **Resolver_DPC**
 
 ![executar](Imagens/executar.PNG)
 
-11. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
+8. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
 
 ![janela](Imagens/janela.PNG)
 
-12. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho XD )_ e aguarde terminar ;)
+9. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho XD )_ e aguarde terminar ;)
 
-13. A janela final aparecerá, só ler e fechar
+10. A janela final aparecerá, só ler e fechar
 
 ![janela_final](Imagens/janela_final.PNG)
 
