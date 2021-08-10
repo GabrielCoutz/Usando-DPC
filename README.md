@@ -17,6 +17,9 @@
 
 ![desbloquear](Imagens/desbloquear.PNG)
 
+> Se não aparecer essa opção para vc não se preocupe, estou fazendo alguns testes para que esse passo seja retirado, facilitando a sua utilização =). Pode prosseguir sem problemas
+
+
 > _Caso não tenha feito isso, toda vez que o programa executar aparecerá uma janela de confirmação do Windows, isso é bem chato, então para não incomodar só desbloqueie_
 
 5. Volte à pasta **(Usando-DPC-main)** e clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
