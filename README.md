@@ -8,10 +8,12 @@
 ATUALIZAÇÃO 30/08
 
 
-Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo os downloads serem mais rápidos
+Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo os downloads serem mais rápidos.
 
-   Se ocorrer algum erro por favor <a href='#Contato'>**ME AVISE AQUI**</a>, pois, como mencionei, são TESTES!!!</h2>
+   Se ocorrer algum erro por favor <a href='#Contato'>**ME AVISE AQUI**</a>, pois, como mencionei, são TESTES!!!
 
+   Alguns passos abaixo podem estar sendo inúteis devido à essas alterações, portanto, caso algum passo não esteja de acordo pode pulá-lo.
+</h2>
 
 # **!!!**
 
