@@ -1,3 +1,21 @@
+# **AVISO IMPORTANTE**
+
+# **!!!**
+
+
+<h2>
+
+ATUALIZAÇÃO 30/08
+
+
+Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo os downloads serem mais rápidos
+
+Se ocorrer algum erro por favor ME AVISE (final da página), pois, como mencionei, são TESTES!!!</h2>
+
+
+# **!!!**
+
+
 <h1>Como Utilizar?</h1>
 
 
