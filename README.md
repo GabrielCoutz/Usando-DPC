@@ -10,7 +10,7 @@ ATUALIZAÇÃO 30/08
 
 Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo os downloads serem mais rápidos
 
-Se ocorrer algum erro por favor ME AVISE (final da página), pois, como mencionei, são TESTES!!!</h2>
+   Se ocorrer algum erro por favor <a href='#Contato'>ME AVISE</a>, pois, como mencionei, são TESTES!!!</h2>
 
 
 # **!!!**
@@ -89,7 +89,7 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 <hr>
 
-<h1>Entre em Contato Comigo ^-^</h1>
+<h1 id='Contato'>Entre em Contato Comigo ^-^</h1>
 Caso precise falar comigo ou tenha acontecido algum erro, só fazer isso:
 
 Clique em **Issues** e depois em **New Issue**. Descreva seu problema, se possível com imagens, e espere meu contato =)
