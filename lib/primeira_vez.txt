@@ -1,0 +1,4 @@
+Esse bloco de notas foi criado apenas para controle do programa, caso ele não existir significa que
+            é a primeira vez que está sendo executado, ou seja, irá aparecer a caixa de mensagem inicial.
+            Caso já exista, significa que já foi executado em algum momento, então apenas vai executar direto.
+            Pode ignorar kkkk
