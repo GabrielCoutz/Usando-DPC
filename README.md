@@ -36,7 +36,7 @@ Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo o
 
 ![exec_adm](Imagens/exec_adm.PNG)
 
-5. Após isso, execute **Resolver_DPC**
+5. Após isso, execute normalmente **Resolver_DPC**
 
 ![executar](Imagens/executar.PNG)
 
