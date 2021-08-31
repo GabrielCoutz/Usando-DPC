@@ -34,7 +34,7 @@
 
 <h1 align='center'>Pós execução</h1>
 
-<p text-align='justify'>Agora, para que esse programa rode e resolva o problema sempre que o pc é ligado, precisamos adicioná-lo à pasta Inicializar do Windows.</p>
+<p text-align='right'>Agora, para que esse programa rode e resolva o problema sempre que o pc é ligado, precisamos adicioná-lo à pasta Inicializar do Windows.</p>
 
 
 1. Mova a pasta para onde deseja guardá-la, pode ser em qualquer lugar, contanto que não seja apagada!
