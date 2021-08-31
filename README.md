@@ -76,7 +76,7 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 ![copiar](Imagens/copiar.png)
 
-6. Para finalizar, pode colocar a pasta com todos os arquivos em qualquer lugar _(não apague)_, depois disso reinicie o pc e veja a mágica acontecer kkk
+6. Para finalizar, reinicie o pc e veja a mágica acontecer kkk
 
 <hr>
 
