@@ -21,32 +21,32 @@ Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo o
 <h1>Como Utilizar?</h1>
 
 
-1. Clique **[aqui](https://github.com/GabrielCoutz/Usando-DPC/archive/refs/heads/main.zip)** para baixar
+1. Clique **[AQUI](https://github.com/GabrielCoutz/Usando-DPC/archive/refs/heads/main.zip)** para baixar
 
 
 2. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro
 
 ![extrair](Imagens/extrair.png)
 
-5. Na pasta **(Usando-DPC-main)** clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
+3. Dentro da pasta **(Usando-DPC-main)** clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
 
 ![prop_2](Imagens/prop_2.png)
 
-6. Vá em **Compatibilidade** e marque a opção **Executar esse programa como administrador**, clique em **OK**
+4. Vá em **Compatibilidade** e marque a opção **Executar esse programa como administrador**, clique em **OK**
 
 ![exec_adm](Imagens/exec_adm.PNG)
 
-7. Após isso, execute **Resolver_DPC**
+5. Após isso, execute **Resolver_DPC**
 
 ![executar](Imagens/executar.PNG)
 
-8. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
+6. Aparecerá uma janela inicial, leia com atenção e clique em **Começar**
 
 ![janela](Imagens/janela.PNG)
 
-9. Após isso o programa começará a rodar, então aproveite a música de espera _( selecionada com carinho XD )_ e aguarde terminar ;)
+7. Após isso o programa começará a rodar, apenas espere terminar ;)
 
-10. A janela final aparecerá, só ler e fechar
+8. A janela final aparecerá, só ler e fechar
 
 ![janela_final](Imagens/janela_final.PNG)
 
