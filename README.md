@@ -21,28 +21,14 @@ Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo o
 <h1>Como Utilizar?</h1>
 
 
-1. Entre **[aqui](https://github.com/GabrielCoutz/Usando-DPC)**, clique em **Code** e depois em **Download ZIP**
+1. Clique **[aqui](https://github.com/GabrielCoutz/Usando-DPC/archive/refs/heads/main.zip)** para baixar
 
-![download](Imagens/download_dpc.PNG)
 
-2. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro, pode colocar qualquer nome nessa pasta
+2. Crie uma pasta na **Área de Trabalho** e extraia o arquivo dentro
 
 ![extrair](Imagens/extrair.png)
 
-3. Abra a pasta que foi extraída **(Usando-DPC-main)**, entre na pasta **lib** e clique com o **Botão Direito** em **dpclat**, depois abra **Propriedades**
-
-![prop](Imagens/prop.png)
-
-4. Marque a opção **Desbloquear** e depois clique em **OK**
-
-![desbloquear](Imagens/desbloquear.PNG)
-
-> Se não aparecer essa opção para vc não se preocupe, estou fazendo alguns testes para que esse passo seja retirado, facilitando a sua utilização =). Pode prosseguir sem problemas
-
-
-> _Caso não tenha feito isso, toda vez que o programa executar aparecerá uma janela de confirmação do Windows, isso é bem chato, então para não incomodar só desbloqueie_
-
-5. Volte à pasta **(Usando-DPC-main)** e clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
+5. Na pasta **(Usando-DPC-main)** clique com o botão direito em **Resolver_DPC**, depois em **Propriedades**
 
 ![prop_2](Imagens/prop_2.png)
 
