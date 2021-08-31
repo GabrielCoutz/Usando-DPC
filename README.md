@@ -56,24 +56,27 @@ Estou fazendo alguns teste para deixar os arquivos mais leves e assim, fazendo o
 
 Agora, para que esse programa rode e resolva o problema sempre que o pc é ligado, precisamos adicioná-lo à pasta Inicializar do Windows.
 
-1. Pressione **Windows** + **R** e digite **%appdata%**, depois clique em OK
+
+1. Mova a pasta para onde deseja guardá-la, pode ser em qualquer lugar, contanto que não seja apagada!
+
+2. Pressione **Windows** + **R** e digite **%appdata%**, depois clique em OK
 
 ![appdata](Imagens/appdata.PNG)
 
-2. Siga esse caminho: **_AppData --> Roaming --> Microsoft  --> Windows  --> Start Menu  --> Programs  --> Startup_**
-   1. Com vc pode estar em português, então as 3 últimas pastas serão **_Menu Iniciar --> Programas --> Inicializar_**
+3. Siga esse caminho: **_AppData --> Roaming --> Microsoft  --> Windows --> Menu Iniciar --> Programas --> Inicializar_**
+   1. Com vc pode estar em inglês, então as 3 últimas pastas serão **_--> Start Menu --> Programs --> Startup_**
 
 ![caminho](Imagens/caminho.PNG)
 
-3. Volte à pasta em que vc extraiu os arquivos. Clique com o botão direito em **Resolver_DPC** e clique em **Criar Atalho**
+4. Volte à pasta em que vc extraiu os arquivos. Clique com o botão direito em **Resolver_DPC** e clique em **Criar Atalho**
 
 ![atalho](Imagens/atalho.png)
 
-4. Agora basta colocar esse atalho dentro da pasta _Inicializar_ para que rode quando o windows iniciar
+5. Agora basta colocar esse atalho dentro da pasta _Inicializar_ para que rode quando o windows iniciar
 
 ![copiar](Imagens/copiar.png)
 
-5. Para finalizar, pode colocar a pasta com todos os arquivos em qualquer lugar _(não apague)_, depois disso reinicie o pc e veja a mágica acontecer kkk
+6. Para finalizar, pode colocar a pasta com todos os arquivos em qualquer lugar _(não apague)_, depois disso reinicie o pc e veja a mágica acontecer kkk
 
 <hr>
 
