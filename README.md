@@ -1,3 +1,5 @@
+Esse é um simples programa que fiz, para resumir, ele retira o chiado do Razer Surround utilizando o programa DPC Latency. Bem simples mas muito útil kk
+
 <h1 align='center'>Como Utilizar?</h1>
 
 
