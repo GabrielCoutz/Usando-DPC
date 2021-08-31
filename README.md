@@ -1,4 +1,4 @@
-<h1>Como Utilizar?</h1>
+<h1 align='center'>Como Utilizar?</h1>
 
 
 1. Clique **[AQUI](https://github.com/GabrielCoutz/Usando-DPC/archive/refs/heads/main.zip)** para baixar
@@ -32,7 +32,7 @@
 
 <hr>
 
-<h1>Pós execução</h1>
+<h1 align='center'>Pós execução</h1>
 
 Agora, para que esse programa rode e resolva o problema sempre que o pc é ligado, precisamos adicioná-lo à pasta Inicializar do Windows.
 
@@ -60,7 +60,7 @@ Agora, para que esse programa rode e resolva o problema sempre que o pc é ligad
 
 <hr>
 
-<h1 id='Contato'>Entre em Contato Comigo ^-^</h1>
+<h1 id='Contato' align='center'>Entre em Contato Comigo ^-^</h1>
 Caso precise falar comigo ou tenha acontecido algum erro, só fazer isso:
 
 Clique em **Issues** e depois em **New Issue**. Descreva seu problema, se possível com imagens, e espere meu contato =)
