@@ -10,7 +10,7 @@ Esse é um simples programa que fiz, para resumir, ele retira o chiado do Razer 
 
 ![extrair](Imagens/extrair.png)
 
-3. Execute **Resolver_DPC**
+3. Execute **Resolver_DPC** _(Não é necessário executar como administrador!)_
 
 ![executar](Imagens/executar.PNG)
 
